@@ -1,0 +1,22 @@
+<resources>
+    <style name="Theme.Pecode" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFF</item>
+        <item name="colorPrimaryVariant">#FFF</item>
+        <item name="colorOnPrimary">#FFF</item>
+        <item name="colorSecondary">#FFF</item>
+        <item name="colorSecondaryVariant">#FFF</item>
+        <item name="colorOnSecondary">#FFF</item>
+        <item name="android:statusBarColor">#FFF</item>
+
+        <item name="colorBlack">#DE000000</item>
+        <item name="colorTurquoise">#02AAB0</item>
+        <item name="colorPaleTurquoise">#49C0BD</item>
+        <item name="colorBrightTurquoise">#33BABF</item>
+        <item name="colorShadowTurquoise">#01A3A9</item>
+        <item name="colorWhite">#FFFFFF</item>
+        <item name="colorGray">#8A000000</item>
+
+        <item name="fontMedium">@font/roboto_medium</item>
+        <item name="fontRegular">@font/roboto_regular</item>
+    </style>
+</resources>

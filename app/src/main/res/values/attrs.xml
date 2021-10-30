@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorTurquoise" format="color|reference" />
+    <attr name="colorPaleTurquoise" format="color|reference" />
+    <attr name="colorBrightTurquoise" format="color|reference" />
+    <attr name="colorShadowTurquoise" format="color|reference" />
+    <attr name="colorWhite" format="color|reference" />
+    <attr name="colorBlack" format="color|reference" />
+    <attr name="colorGray" format="color|reference" />
+
+    <attr name="fontMedium" format="reference" />
+    <attr name="fontRegular" format="reference" />
+</resources>
